@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+}
+header {
+    background-color: rgb(15, 15, 15);
+    height: 70px;
+    width: 100vw;
+    margin-top: 10px;
+    display: flex;
+   
+}
+.searh-input {
+    margin-left: 100px;
+}
+.searh-input input {
+    background-color: rgb(15, 15, 15);
+    border: 1px solid whitesmoke;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px;
+}
+.style-scope {
+    background-color: rgb(36, 35, 35);
+    pointer-events: none;
+    display: block;
+    width: 69px;
+    height: 37px;
+    fill: whitesmoke;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
+
+.voic-search {
+    background-color: rgb(36, 35, 35);
+    pointer-events: none;
+    display: block;
+    width: 45px;
+    height: 37px;
+    fill: whitesmoke;
+    margin-left: 10px;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px;    
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
+.voic-search svg {
+    fill: whitesmoke;
+    height: 30px;
+    width: 24px;
+    margin-left: 8px;
+}
+
+.letf-head {
+    display: flex;
+    margin-left: 160px;
+}
+.create-icon {
+    fill: whitesmoke;
+    height: 30px;
+    width: 24px;
+    margin-left: 8px;
+    margin-left: 20px;
+}
+.notification {
+    fill: whitesmoke;
+    height: 30px;
+    width: 24px;
+    margin-left: 8px;
+    margin-left: 20px;
+}
+.prof-img {
+    border-radius: 40px;
+    /* margin-left: 288px; */
+    width: 36px;
+    height: 36px;
+    margin-left: 20px;
+}
+input {
+    height: 15px;
+    width: 600px;
+    padding: 10px 15px;
+    margin-left: 50px;
+    
+}
+
+.b-1 {
+    
+  
+    width: 100px ;
+    padding: 0% ;
+    height: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+
+
+
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+.main{
+    display: flex;
+  
+    
+}
+
+.d1{
+
+    flex-direction: column;
+
+}
+
+iframe:hover{
+    transform: scale(1.2);
+   
+}
+
+ul{
+    display: flex;
+    padding: 0%;
+}
+
+li{
+    background-color: rgb(36, 35, 35);
+    color: white;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    padding: 10px;
+
+    border-radius: 20px;
+    text-align: center;
+   
+    
+}
+
+.img{
+  padding: 10px ;
+  /* width: 40px;
+  height: 15px; */
+  width: 65px;
+  height: 20px;
+  /* font-size: medium; */
+ 
+
+
+}
+.img svg {
+    width: 19px;
+    fill: whitesmoke;
+}
+
+li:hover{
+    background-color: rgb(61, 61, 61);
+    color: white;
+}
+
+
+
+
+
+
+    
+    
+
